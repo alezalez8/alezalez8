@@ -113,7 +113,7 @@
         </mxCell>
         <mxCell id="zz_b-w7ehZxn2QmO33RR-22" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3a17f1ce550125da-2">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="580" y="830" as="sourcePoint" />
+            <mxPoint x="575" y="910" as="sourcePoint" />
             <mxPoint x="640" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -128,6 +128,15 @@
               <mxPoint x="100" y="710" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zz_b-w7ehZxn2QmO33RR-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="3a17f1ce550125da-11">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="330" y="910" as="sourcePoint" />
+            <mxPoint x="590" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zz_b-w7ehZxn2QmO33RR-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;external&amp;nbsp; power&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="880" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
